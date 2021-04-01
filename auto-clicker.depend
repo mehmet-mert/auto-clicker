@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609441429 source:c:\users\mhmtm\desktop\auto clicker\auto-clicker\main.cpp
+	<iostream>
+	<windows.h>
+
